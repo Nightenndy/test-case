@@ -169,7 +169,6 @@ body {
   left: 803px;
   top: 42px;
   z-index: 5;
-  background: url(/assets/img/img-left-side/helena.png);
   border-radius: 5px;
 }
 .img-3 {
@@ -179,7 +178,6 @@ body {
   left: 1105px;
   top: 102px;
   z-index: 5;
-  background: url(/assets/img/img-left-side/da.png);
   border-radius: 5px;
 }
 .img-4 {
@@ -188,7 +186,6 @@ body {
   height: 304px;
   left: 850px;
   top: 253px;
-  background: url(/assets/img/img-left-side/dan.png);
   border-radius: 10px;
 }
 .img-5 {
@@ -197,7 +194,6 @@ body {
   height: 188px;
   left: 1164px;
   top: 440px;
-  background: url(/assets/img/img-left-side/pex.png);
   border-radius: 5px;
 }
 .img-6 {
@@ -332,7 +328,6 @@ body {
   height: 475px;
   left: 166px;
   top: 1152px;
-  background: url(/assets/img/pexelsfauxels.png);
   border-radius: 5px;
 }
 .h2-title {
@@ -500,7 +495,6 @@ body {
   height: 687px;
   left: 800px;
   top: 1979px;
-  background: url(/assets/img/pexelsmudassirali.png);
   border-radius: 5px;
 }
 .link-body3 {
@@ -1127,8 +1121,6 @@ body {
   height: 90px;
   left: 918px;
   top: 4548px;
-  
-  background: url(/assets/img/image5.png);
   border-radius: 150px;
 }
 .company-first-text {
@@ -1161,7 +1153,6 @@ body {
   height: 90px;
   left: 925px;
   top: 4812px;
-  background: url(/assets/img/image4.png);
   border-radius: 77.5px;
 }
 .company-second-text {
