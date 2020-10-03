@@ -1,6 +1,3 @@
-* {
-  box-sizing: border-box;
-}
 html {
   font-family: 'Basis Grotesque Pro';
     src: local('Basis Grotesque Pro Regular'), local('Basis-Grotesque-Pro-Regular'),
@@ -172,7 +169,7 @@ body {
   left: 803px;
   top: 42px;
   z-index: 5;
-  background: url(/assets/img/img-left-side/helenaІlopes.png);
+  background: url(/assets/img/img-left-side/helenalopes.png);
   border-radius: 5px;
 }
 .img-3 {
